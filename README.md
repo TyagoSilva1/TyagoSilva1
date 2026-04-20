@@ -28,10 +28,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/tyagosilva1/tyagosilva1/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNwYWV3cWprcGU5Z2l4aWljYzZlYjAwOHExNDhnZXNzYWswdm1tNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1yLmZ4oOq8P4iCFZQN/giphy.gif"  />
 </div>
