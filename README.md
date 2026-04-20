@@ -1,4 +1,4 @@
-<h4 align="left">💻 Desenvolvedor Full Stack focado em Java, Spring Boot e JavaScript<br>🚀 Tecnologias<br>Back-end: Java, Spring Boot, Node.js, C#, .NET<br>Front-end: HTML, CSS, JavaScript, TypeScript, React, Vue.js, Next.js<br>Banco de Dados: PostgreSQL, SQL, H2<br>Testes: JUnit, Mockito, xUnit, Vitest<br>Ferramentas: Git, GitHub, Linux</h4>
+<h4 align="left">🚀 Tecnologias<br>Back-end: Java, Spring Boot, Node.js, C#, .NET<br>Front-end: HTML, CSS, JavaScript, TypeScript, React, Vue.js, Next.js<br>Banco de Dados: PostgreSQL, SQL, H2<br>Testes: JUnit, Mockito, xUnit, Vitest<br>Ferramentas: Git, GitHub, Linux</h4>
 
 ###
 
@@ -28,20 +28,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tyagosilva1/tyagosilva1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tyagosilva1/tyagosilva1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tyagosilva1/tyagosilva1/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-<div align="left">
-  <a href="https://www.linkedin.com/in/tyago-silva-dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
-  </a>
-</div>
-
-###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tyagosilva1/tyagosilva1/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tyagosilva1/tyagosilva1/output/pacman-contribution-graph.svg">
